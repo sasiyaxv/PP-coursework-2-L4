@@ -1,0 +1,26 @@
+#mainMenuPane{
+    -fx-background-image: url("mainBackground.jpg");
+    -fx-background-size: 1280  960;
+}
+
+#mainHeader{
+    -fx-font-size:60px;
+-fx-font-weight:600 ;
+    -fx-background-color: white;
+
+}
+
+.button{
+    -fx-font-size:25px;
+    -fx-background-color: lightblue;
+    -fx-pref-width:400px;
+    -fx-pref-height: 80px;
+    -fx-cursor:hand;
+    -fx-border-radius:10px;
+    -fx-background-radius:10px;
+
+
+}
+#quitBtn{
+    -fx-background-color: lightcoral;
+}

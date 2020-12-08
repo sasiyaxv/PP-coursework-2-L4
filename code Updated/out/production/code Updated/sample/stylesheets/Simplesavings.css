@@ -1,0 +1,38 @@
+#simpleSavingMenu{
+-fx-background-color: lightblue;
+
+}
+
+#goBackBtn{
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-font-size: 20px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 60px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 4px;
+
+
+}
+.text-field{
+    -fx-pref-width: 250px;
+    -fx-pref-height: 45px;
+    -fx-font-size: 25px;
+}
+.label{
+    -fx-font-size: 20px;
+}
+#calculateSavingBtn{
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-font-size: 20px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 60px;
+    -fx-border-width: 2px;
+-fx-border-color: black;
+    -fx-border-radius: 4px;
+
+
+
+}
+
+

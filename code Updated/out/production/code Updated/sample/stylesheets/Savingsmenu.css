@@ -1,0 +1,16 @@
+#savingsMenu{
+    -fx-background-image: url("mainBackground.jpg");
+    -fx-background-size: 1280  960;
+}
+
+.button{
+    -fx-font-size:25px;
+    -fx-background-color: lightblue;
+    -fx-pref-width:400px;
+    -fx-pref-height: 80px;
+    -fx-cursor:hand;
+    -fx-border-radius:10px;
+    -fx-background-radius:10px;
+
+
+}

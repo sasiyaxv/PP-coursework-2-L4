@@ -1,0 +1,23 @@
+.button{
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-font-size: 20px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 60px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 4px;
+
+
+}
+
+#heading{
+    -fx-font-size: 45px;
+}
+
+#mainMenuImg{
+    -fx-border-image-source: url("u.png");
+
+}
+#layoutImg{
+    
+}

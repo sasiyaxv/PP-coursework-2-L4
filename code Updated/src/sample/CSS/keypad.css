@@ -1,0 +1,17 @@
+#calculateSavingBtn,#goBackBtn{
+-fx-border-color:transparent;
+-fx-font-size:15px;
+-fx-padding:10px;
+-fx-pref-height:20px;
+-fx-pref-width:100px;
+}
+.button{
+
+-fx-font-size:10px;
+
+-fx-pref-height:20px;
+-fx-pref-width:20px;
+
+
+
+}

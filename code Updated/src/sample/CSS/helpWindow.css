@@ -1,0 +1,13 @@
+.button{
+
+-fx-image: url("SS1.png"); 
+
+-fx-font-size:20px;
+-fx-background-color: lightblue; 
+-fx-pref-width:200px;
+-fx-cursor:hand;
+
+
+
+
+}

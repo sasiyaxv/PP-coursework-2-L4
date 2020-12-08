@@ -1,0 +1,27 @@
+#mainHeader{
+-fx-font-size:35px;
+
+
+}
+
+.button{
+
+-fx-font-size:20px;
+-fx-background-color: lightblue; 
+-fx-pref-width:200px;
+-fx-cursor:hand;
+-fx-border-radius:10px;
+-fx-background-radius:10px;
+
+
+
+
+}
+
+#mainMenuPane,#savingsMenu{
+ -fx-background-image: url("mainBackground.jpg");
+
+-fx-background-size: 960 720;
+}
+
+

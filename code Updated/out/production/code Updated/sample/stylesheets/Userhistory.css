@@ -1,0 +1,21 @@
+
+#backBtn{
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-font-size: 20px;
+    -fx-pref-width: 150px;
+    -fx-pref-height: 60px;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 4px;
+}
+#history{
+    -fx-padding: 30px;
+    -fx-background-color: #ecf1ec;
+}
+#headingLbl{
+    -fx-font-size: 40px;
+}
+.text-area{
+    -fx-pref-height: 450px;
+    -fx-font-size: 20px;
+}

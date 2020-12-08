@@ -1,0 +1,30 @@
+#enterBtn{
+-fx-font-size:30px;
+-fx-pref-height:80px;
+-fx-pref-width:170px;
+
+}
+.button{
+-fx-font-size:20px;
+-fx-pref-height:80px;
+-fx-pref-width:80px;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+    -fx-border-width: 2px;
+    -fx-border-color: darkgrey;
+}
+.text-field{
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+    -fx-pref-height:60px;
+
+
+
+}
+#deleteLast{
+    -fx-background-image:url("clear.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+
+
+}

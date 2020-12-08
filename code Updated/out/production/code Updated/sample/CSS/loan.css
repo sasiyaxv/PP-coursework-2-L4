@@ -1,0 +1,8 @@
+#gobackBtn,#loanBtn{
+-fx-font-size:15px;
+-fx-padding:10px;
+-fx-pref-height:20px;
+-fx-pref-width:100px;
+-fx-cursor:hand;
+-fx-border-color:transparent;
+}
